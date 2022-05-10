@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+C:\Users\varispau\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3516736190.index
+\AsiakasOhjelma\src\main\java
+C:\Users\varispau\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\159980725.index
+\AsiakasListaus\src\main\java
+C:\Users\varispau\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\288920979.index
+\OmaEka\src\main\java
+C:\Users\varispau\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1232623981.index
+\Eta3\src\main\java
+C:\Users\varispau\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2276259917.index
+\Kommunikaatio\src\main\java
+C:\Users\varispau\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\720253109.index
+\AsiakasListaus\src\main\java

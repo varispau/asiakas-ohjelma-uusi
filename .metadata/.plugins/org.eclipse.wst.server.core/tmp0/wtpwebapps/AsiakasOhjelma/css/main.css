@@ -1,0 +1,53 @@
+@charset "ISO-8859-1";
+table {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;  
+  width: 50%;
+}
+
+table td, table th {
+  border: 1px solid #ddd;
+  padding: 8px;  
+}
+
+table tbody tr:nth-child(even){background-color: #f2f2f2;}
+
+table tbody tr:hover {background-color: #ddd;}
+
+table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  color: white;
+  background-color: rgba(192, 23, 230);
+  }
+
+.oikealle{
+	text-align: right;
+	color: white;
+	background-color: rgba(192, 23, 230);
+	padding: 3px;	
+}
+
+.vasemmalletumma{
+	text-align: left;
+	background-color: rgba(192, 23, 230);
+	padding: 5px;
+}
+
+.vasemmalle{
+	text-align: left;
+	background-color: rgba(246, 6, 229, 0.48);
+	padding: 5px;
+}
+
+.poista{
+	color: red;
+	text-decoration: underline;
+	cursor: pointer;	
+}
+
+#uusiAsiakas, #takaisin{
+	color: white;	
+	cursor: pointer;	
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ohjelma.Autot&apos; to &apos;AutoOhjelma&apos;&#x0D;&#x0A;- Original project: &apos;Autot&apos;&#x0D;&#x0A;- Original element: &apos;ohjelma.Autot&apos;&#x0D;&#x0A;- Renamed element: &apos;ohjelma.AutoOhjelma&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Autot&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;ohjelma{Autot.java[Autot" matchStrategy="1" name="AutoOhjelma" qualified="false" references="true" similarDeclarations="false" stamp="1649492889941" textual="false" version="1.0"/>
+</session>
